@@ -15,22 +15,25 @@ body{
     
 }
 .list__item{
-    width:33%;
+   width:300px;
+    margin: 0 auto;
+} 
+.text{
+    width: 340px;
+    margin: auto;
 }
 h2 a{ 
     text-decoration: none;
     color: black;
     font-size: 16px;
     font-weight: bold;
-    
-  }
-a{
-    
+ }
+a{ 
     text-decoration: none;
     color: rgb(249, 113, 113);
     font-size: 12px;
     font-weight: bold;
-  }
+}
 hr{
     width: 22%;
     border-top: 1px solid red;
@@ -39,6 +42,7 @@ hr{
 p{
     font-size: 14px;
 }
+
 
 li{
     list-style: none;
